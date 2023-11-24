@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Sharp",
+  "age": 38,
+  "address": {
+    "street": "Duise View",
+    "city": "Sunjehi",
+    "state": "MI",
+    "zip": "08688"
+  },
+  "contact": {
+    "phone": "(559) 961-5652",
+    "servicePhone": "800164178"
+  },
+  "birthday": "1962-02-09T18:22:47.468Z",
+  "ip": "182.84.170.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Te rumavke hiikfe sovo cerlus tili pelzoun ob fojdo fivuk mi we jite jefi. Rinmuv wecerov betve bem bubpobuj kaigsok biwce epojakiv ziniaz hog sa fopdawi pihedo gejit jowhehjo ibobekbeh ubwucot ruj. Ca vaopar feswa zivhu lonabsi po engo nubzu bun moh nahuujo monrarcif ticsaada jumuv.",
+    "bio": "Wojafug nugmije dawi sinnal jehgucum gov sizhordi lovefif ok eg wempim diec huw bula kopdasces. Hirno isbi ma re nashuiwu erasuvew pumuldop zonegsal ow mussorig vuk pekuhu coana zisuc. Re ra elikin fissajev uwurob got su ejos wila dagfa busowiap ne osija ifawa mupvi mahzufo igwe tefam. Ozu mo du ma mukabaj bahgi mauwiose me we bapaere dure jiporcik ajbosko. Pig kidiko licved cetam idaup mozut nefit te vakamgic ku kud awtiizu afugomdo hisube oza cu. Tis huttilsi fa de wibemu kokhuvmur rembem oge nuek dalciet ge nal bansa dib getsigci nazbugkis aplib vuginejef."
+  },
+  "apiKey": "ed2bc19df0979359d225ffb09585153cb0b4a3af17ed40bba6e0cd1a5f82c5cf",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
