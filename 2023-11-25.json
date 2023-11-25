@@ -1,0 +1,26 @@
+{
+  "name": "Juan Parsons",
+  "age": 47,
+  "address": {
+    "street": "Ujipiv Ridge",
+    "city": "Walepnit",
+    "state": "NC",
+    "zip": "14518"
+  },
+  "contact": {
+    "phone": "(685) 426-7525",
+    "servicePhone": "800926617"
+  },
+  "birthday": "1992-04-16T23:31:56.180Z",
+  "ip": "152.138.214.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Lor okaol tuzuwo nuukajo jul cenun cihave nat lerbab radnili nomir ojaab wevivvi ijilimesa rigup fevranap fonhalut vendup. Olo apza wilas uraule be va paminit nukrolno zacofaga robip efimila tovsemfe iscim odva iwmul atoforpot. Hu hu jahivo pisu erda riopoba ob gelan bo jowvocimo fievo kufdib fusfitir ahaceta vetehsan wahhofhin ezuag. Fismuih imi banku ke mav caham files no no lagebu loasavok lica ujaluj.",
+    "bio": "Om kes iz fudekor voh wuvojek fufur varili labsoote filrawzu ad sogoga aj. Fi wavzu bihjagduf cirvif kectanaw adoefu gufahkal rigisupo dojme ririsiof cawbiraj jorfo sujtuw vinkon. Omogu uf ucora uzi ga vilvuaze buzti eg ducsovov ogjucih gon tocilkij ja gas sowalku ruvob. Wupatise velnel ji obgeb hav ofwolfe majufeh api es puhlu hazu reczebu cutikfuw ucodek ku im guw noid. Do tiezagup jelegiru ewekobrag kijkemo beplit ula ehugi cumof ojucun lima few ro mivfugac."
+  },
+  "apiKey": "6d82108d562742b27e0284ea8e697cd9e713dadf5f0fefe14ea4d80f73a91f1a",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
