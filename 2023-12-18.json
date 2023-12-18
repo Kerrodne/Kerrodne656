@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Romero",
+  "age": 38,
+  "address": {
+    "street": "Usiasa Center",
+    "city": "Sadpirut",
+    "state": "AR",
+    "zip": "38869"
+  },
+  "contact": {
+    "phone": "(852) 481-4627",
+    "servicePhone": "800736889"
+  },
+  "birthday": "2004-03-04T22:23:27.656Z",
+  "ip": "202.125.92.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Vasacta lalmupah af bupeka cupbofu peh aleusocu pugsevuv nakeswi ru mipzotva reg. Teha po ul liunatic zike viwcaf tigwose sug zif puckus zi oku jamop. Bene ifonov fikdej wohrezbi fijvuzmut ha za uzane pubejjal mekoj ga higivid lek merlo.",
+    "bio": "Vimri vi nikiwcuk ago hid cigewruw gennetcab tenco varuj ca azbebrul fagbid. Ed mowwof woljivkug ne mapagu haku jurmate duh ametuulo vefne zijhad tiahgi iri moobo rofdigat macfa buur lo. An no kezed ku hubof ci taeh fohsofav cum dol ito woilofo heh. Veal tan bidfij kesijwi hutdufmep uhinif fiw iniicgu kifso efe onwoc daj revmukbe."
+  },
+  "apiKey": "f8abc6a5e15c2c45f9082448f0332d668e0d92a5db25ea4ad80bb98924be3bf7",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
