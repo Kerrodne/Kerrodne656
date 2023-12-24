@@ -1,0 +1,26 @@
+{
+  "name": "Luis Garcia",
+  "age": 47,
+  "address": {
+    "street": "Komo Court",
+    "city": "Hotobi",
+    "state": "WI",
+    "zip": "53026"
+  },
+  "contact": {
+    "phone": "(770) 237-8286",
+    "servicePhone": "800729356"
+  },
+  "birthday": "2005-01-15T02:23:10.315Z",
+  "ip": "89.33.79.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Lalufu inaesuviw gas sijisob offe bebsire wadi gub ni gobevi fojufeod kicposuz zicihegi ezopemsa juzujas ciira dewadvo. Wis il jehvu te pintaf ko copzo faunba vekavgu hurovahu nul odowa jaer newefi. Juvjuh muweoz katjiuzi bozil lezo kiguve vemnoz cuhif emnuz buejivug amid ba.",
+    "bio": "Judfuhna funisgol ofvo gevzic ipsip ite tac pac se nujsawnok wavujaf ewaec dugumioma. Pubil im robiwli nucuvere sizug fe zuwabrop lahnib gifnok akiuwpew to ofiragup zojru gan liubimo. Hus cumkobop mar raniniz hiw ineribim bowi meb nocvorel fiw ca uczidlo sej. Razeat giguge jo piwpa na tic fa wizabmi zibeb atulouv nota ali ri. Gof jar bibko sisupaum gicim vaho fupupjaw macal ecoavawer dez enizur ejajumam wife sacus carof. Kogro be uvmela tegawta odriz piefegat ci zepa bugzasha tamdair efu to zu. Vul lilvadi towtig roj pi wuw ebekuafa ofico gozoz bohcikdiz ebowec bomru tegadav vafnagja deniad bihfuham."
+  },
+  "apiKey": "98d66059a349d679c7f80b59561ba8ee8e4e1c80c06e5d2c7cd39d0790b19453",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
