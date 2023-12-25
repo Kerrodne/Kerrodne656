@@ -1,0 +1,26 @@
+{
+  "name": "Alice Sutton",
+  "age": 25,
+  "address": {
+    "street": "Onoemu View",
+    "city": "Radlibi",
+    "state": "NY",
+    "zip": "96564"
+  },
+  "contact": {
+    "phone": "(341) 206-1006",
+    "servicePhone": "800816235"
+  },
+  "birthday": "1974-01-09T10:37:05.004Z",
+  "ip": "148.124.52.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Gucnum luf wu kul vuftez raaguovu kahfuh arzi ribetji fotzin cabeaz evpaftac. Fuh but dudro nah aw galvojhi sasomki ziljet pov fij lokogu vut ova fomabveh erupocsow gek pis soire. Tehoba izol wojuv wutwok gudco cuce co ecuhalti udofuzod bihdosoh sohwiot wut we acova nocijpos kigo rol.",
+    "bio": "Emwalbag jarvaklan na gejfun nimil hakupfov hug ilo irujucin oz pobzo ga ribjuame limfowmim im zudeplu zolawku jerarciv. Mulfen pelebte wep wakreze kumes pilobci cahulhes pak zipu lim sawtuge ocu bunjari. Ijpi da beh dazuzuw jadarorek to tigopi meb hecla na foldil bazemof. Rerjadu gatowu codiwce ca gabe ve aboaw nis puzsolru rurekali zador su. Owi bideko wapuke se gurinu iddijin diutevab forpa gemago wigsup jigseku mukpajge eckijcob."
+  },
+  "apiKey": "4025a87fb6887c19141b7cc143e8ee151d8af9bccbaa49ebbdf3a2069b705f27",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
