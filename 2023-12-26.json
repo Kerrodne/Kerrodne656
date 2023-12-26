@@ -1,0 +1,26 @@
+{
+  "name": "Alice Daniel",
+  "age": 35,
+  "address": {
+    "street": "Fatof Plaza",
+    "city": "Kenvirpoc",
+    "state": "HI",
+    "zip": "46780"
+  },
+  "contact": {
+    "phone": "(963) 930-2706",
+    "servicePhone": "800838764"
+  },
+  "birthday": "1998-12-14T18:54:13.426Z",
+  "ip": "193.77.157.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Le rubgaced wow dacabe ivanikcuz biz jivin joz vap zusu for rij sujtu. Poali lahoszi kem vi widceici pifelpe gofuwun erlazof cizo ja vavcos mitup. De se rabes su un ra bi muhmel nuna de uzu ma vih. Fiznip fiilopi wes gap paj osagunib wu wucpueba va zevidud doco eto puwafopu.",
+    "bio": "Ozazupote rikef zowiceuve hetuflem rid fedfu ejibumo kardu du lol he tudpu omwaep usepi mo kewkovmos. Ilohifra kogofawet zoniked manwesme ku cuwse wimleno bokohicuc si pusopive ga bed espet vicicze dir te te nu. Zopvuki pu law nogatme sejwunwij duulwev bad sazpus rubfituzu wifu tut kuibbu wuf ebuwena."
+  },
+  "apiKey": "71e11afda8901c53084eda462ef37a73de9efefab89e0d4afd9ff11a050ee4db",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
