@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Vega",
+  "age": 27,
+  "address": {
+    "street": "Timfi Pike",
+    "city": "Komehza",
+    "state": "UT",
+    "zip": "95566"
+  },
+  "contact": {
+    "phone": "(440) 958-2658",
+    "servicePhone": "800879458"
+  },
+  "birthday": "1999-10-24T11:39:04.208Z",
+  "ip": "76.224.68.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeoksu mi pa wimeg rauc fuw meercib fu ruv zonema piwenlo dogzo rihigi efrance numiv. Igbih lotgu majti budizu so votvonit ha ve pisnek fa re fihtekon zegegoew ofuza lizjais mumha. Reze vubifwu otipizwu kipfig pozdusi ifosuvu zidow pa ewu op ofuuli ugera uvsice umvek atise jat vuszul. Cav efasa jalut ne zuhosi beripec faudu cotu jorowa uven jezzoskuz mi nunaru ipiov la we.",
+    "bio": "Ibacikeb olu hihkepfu noc zediiw get gugouho vifwokwag lew vuhtij dak zezalu ku negle kezihbo lazu. Anjud cic lukor lotka gecku kitum lu ur banenje kunam za kej. Tofu tidten fur uwvos ungebpi efe likudog ikefi zaf mejku raabu ben eb."
+  },
+  "apiKey": "8cfc50001ab87fb5e47ad8554b93f0a5adb9d763afd52c371ba43030d03115a0",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
