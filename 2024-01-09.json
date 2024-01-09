@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Greer",
+  "age": 30,
+  "address": {
+    "street": "Tegi View",
+    "city": "Homawe",
+    "state": "IL",
+    "zip": "62528"
+  },
+  "contact": {
+    "phone": "(847) 922-1424",
+    "servicePhone": "800985346"
+  },
+  "birthday": "1986-11-06T19:52:41.428Z",
+  "ip": "170.93.31.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Epi ic nunih nouke vohen cophup nivgutiz munog azihav lubbucaj kar gom locmo ponenku. Wocinwev segiv rojkad lesfim bev ji uzahasho lanedri bagponu varozsil be korpep gu fuheljuw. Ifciduz vukizot du fuup foddocfa lowgoza tozdus zujivek itesohde hunuk lisu ofiegogo hulsat wite ohautibot oru du to. Ro gerzolipa lof zaavococ dozeb conuvera nujjuzas kowobuko ip bo hul ijmoj ofnu retiw ajeihesi. Sa cuhiffi va hu kufites puir me buvji do ahul ho vi mocesebu gujuro. Cirkod bilgaka dadon foog ropoha geflo duwbuc etioj ija jam cit ca. Keoljen nugib uka vefmi fa cep lujisaz zeradve ziuvtah ijle ja nej reh idelofe igesuj tebij supetu reki.",
+    "bio": "Tuton kacev zuvowino jaud cokaku voiw cat nanreaz he bukda jitsutuf kubzubu hemod vupe ofoaha lovudmug peras. Mofi zis titeda nef evi malopufe oduniloh eza culude atzad etaiki bihegul odalana zuohaefe ka. Je sewaz ri jicub ipiana molasejas ipugarus fipu tub zehez cih as fe mure. Muzceblu jad bacliko gilimo onikaze udevanni lizbasija keihoeg ninus sodpawacu fuges poro tet wiva azidid donliw nu codvurbi. Ubkemadu fozih os ina pamgip cetup ebe zor sidsigli oba cuiholaw pino wuan teskir ir cedu cu."
+  },
+  "apiKey": "fef6b4b6790075dcec3823a6ac7c9bc5501ed12693b97ba4649cce0d5634fe11",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
