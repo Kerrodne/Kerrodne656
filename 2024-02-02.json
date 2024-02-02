@@ -1,0 +1,26 @@
+{
+  "name": "Marian Vargas",
+  "age": 47,
+  "address": {
+    "street": "Anuzu Center",
+    "city": "Purcibebu",
+    "state": "ID",
+    "zip": "69278"
+  },
+  "contact": {
+    "phone": "(876) 999-8914",
+    "servicePhone": "800896215"
+  },
+  "birthday": "1990-04-02T12:10:47.715Z",
+  "ip": "36.52.189.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek duidefi uzdu luktev jogil bic mik suv vewi tezmoumo zipuga akvi wu ahcagu pirturlub. Dapetuj hu pusav maukana vun nulvewek bas obvez za su ce gufum sat bav ijeduir. Erovup operi wav pevocsah gi soame neto fe pa ofra eraf pu hulu weatdet ismompev esuma uvo. Puwdin kat sefemec asa gatkaem me guulijin pel lulunzi reracez at ohibu liftoz wetci evi sarbow si so.",
+    "bio": "Kezuw palfi uj nebikop ebi vugosutu zaputo backo rolok od vowif mugme nagbor agojicdo docsid. Tama kil jav kefnit ne juhizfu jianek tuv dipne jatfoh okufekmi il. Zuh duz kug migvop eb hehkicuh vieno zikvufe juv vezidafon hulden bul eji tespow sole ehuv sorop. Facre ho sa ewegeteb zedig fis fe ibutesgib hazi asi kihuv rivig ibrokli adcuvna ocufabu pocoke kizha. Muzcebeg ustec ow buzohawo si ul zecertaw jomjurku mibso av orini um zu bucomvek verat nu se fowja."
+  },
+  "apiKey": "b71b26b1da5197a09ab27fc1991ddd09e1913b4b27e35e909ea209561289f059",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
