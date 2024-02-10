@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Nelson",
+  "age": 35,
+  "address": {
+    "street": "Zuhaz Center",
+    "city": "Uhanuwuh",
+    "state": "OH",
+    "zip": "16010"
+  },
+  "contact": {
+    "phone": "(833) 424-1023",
+    "servicePhone": "800671711"
+  },
+  "birthday": "1981-04-05T00:40:32.503Z",
+  "ip": "206.160.134.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesiv bawuhcuv ahubo fovat mijvujjiv ammafi vaw waw sobve vigi ibrup nozu. Ce opipitas dowaz el vuurheg ge bik fu riz pefeok abhita zilruef warcaza fuhruljes zekhodnag. Cevfe jik jinepbu oru zami pavipi cebbaju jan ifisak uv edhadnek citwo godad.",
+    "bio": "Pekwo novja hiif poij go zolhot miimuhon takop rezmetuc nog jagahmot hih jafecu idelecpiw vaapauho oto. Ce mezbez dikjag coj lodip nubopoc gir ijijarjo asiluk gocu ha otek vorpij usapo cowref giuk rufudu fozrotla. Ged wahen epepu tawuj fiphoko zu witno vi ra du efuboz id iraerba nuojowut dubrus zoszo wek. Nojoh tam ca kaw hob ce orkula epo packe viuk sunofcit igi dihin uj bif epfod cuujeenu pe. Vonkokwe wovenu eja fic eb fo guhni ke do kiz anavop acnizwa porib fir anonegi rot hewhudji. Ere molmu kauge ima vannadlog vamokruz lizil saz nuwiav ek ap ate cup budket gi narilane juzfom josicata."
+  },
+  "apiKey": "a3b85594af32b90f7d994d34784186eab7ca6052330d9f893f33c7afe535554e",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
