@@ -1,0 +1,26 @@
+{
+  "name": "Tom Robinson",
+  "age": 27,
+  "address": {
+    "street": "Cujha Park",
+    "city": "Bowedif",
+    "state": "CT",
+    "zip": "74195"
+  },
+  "contact": {
+    "phone": "(839) 991-8894",
+    "servicePhone": "800595868"
+  },
+  "birthday": "1969-09-25T23:30:10.142Z",
+  "ip": "160.30.63.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Dula lictiro wubutij movi fu ove idwes jekdipvan duni cicju sa jot lij subek wi. Te begib adoca seev li av jok jufic agol kiar ze pejimamo rume om jenec puziwfo fuwipu hijifew. Woweczo tej vewucdop fabeca jaggisej na cor de atonom wuwepok ogmaw po sekipha zamakmu lop iznuvik. Utuso mu sif hew wasaf il taw rujos poezi mo icolihu cubcarome sav fob fod. Muwesu ewpak ha aca fu edawipos jekogbez geki oficte tuf ru pa gilpokmub tu uhiahfe levpohoja zisuk igi. Sensuv gewute ro iwror pi ujwak zu ok muvapis owozufi zoj se vekpuhe topenos deag kum tojjekik eteoboce. Mikicide eg cigfali hi babke tofwec bawat hoj vablo dabem jupwi ilobu caje luim zo wavuoga.",
+    "bio": "Par cookapev vijvopar inkahi nuj gapowuib dawatelu gih ko hanofnos tuvwiwfa eheuv. Nizic dal lu becun iru omefe ijogow jacitro zocoh vek vovorodup vahe tuf tidav zeru tuwpovtaj teban ubija. Am ni wiugci mes uce pirepahe vul huzvu sujpo jalcu cefgomna fitor ukfon."
+  },
+  "apiKey": "1eb148520f2a4ed7dc3cfc7f8e79f5d2a0c509176ad3479645c7a9e66ce7fc38",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
