@@ -1,0 +1,26 @@
+{
+  "name": "Victor Garrett",
+  "age": 64,
+  "address": {
+    "street": "Eremef Parkway",
+    "city": "Vordaghu",
+    "state": "IA",
+    "zip": "92440"
+  },
+  "contact": {
+    "phone": "(256) 455-1690",
+    "servicePhone": "800243459"
+  },
+  "birthday": "1996-07-10T15:55:37.627Z",
+  "ip": "194.62.57.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Pohvu uj itvezkav ez ig numtegi ji hure vucgapi fa hifoer gubupenu so nigraure muiz. Ron va juc ozjaru cuca go bo iza zevi niasu zer ci jedo luguida zampof jaovum envalic. Fupusoru winbozkal pozo kozdigbe dami manvuv mozaodu saktuzer ganjigel jujtalwol esiuv pesi selozi vikkepeka muj keshi.",
+    "bio": "Cerwihko lapel hezog jedihrul mub jafba hijbat lejpu netduw faz hovdoge fufjom jov. Ehupi fihhebesa zipu ewite jilne ebkum gigmag wud va hepu uma sadesas kisdioc du. Erovep litmez adihen sihpimin hibugod gicozjof vetu zemagfe pulaw lu al ja kospizfi dohop burmeuzi."
+  },
+  "apiKey": "58343d26c1c0bc7148cafdc7f1d0f75b303f95ae2f05caeb5e6bcb459429c9bf",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
