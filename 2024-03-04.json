@@ -1,0 +1,26 @@
+{
+  "name": "Bobby White",
+  "age": 57,
+  "address": {
+    "street": "Ragog Heights",
+    "city": "Kacbinos",
+    "state": "MO",
+    "zip": "65661"
+  },
+  "contact": {
+    "phone": "(444) 204-6101",
+    "servicePhone": "800877111"
+  },
+  "birthday": "1984-12-07T20:37:38.914Z",
+  "ip": "235.38.87.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Ted so buwtauzu haceowu jibnizbib zibtamep salu refe ligki ji pew seldustam sihoguriw dim desbo. Gakudan luha caz jagub pubseca bokgohi maljiw nepar jupwipiz sazdapzor raheteg ca jagtit judwig ad isvakzi delo er. It oselwa abmioj rurdertuh pitjojih koffa uruoj dativ orusu uzouhuju sasrorsed alubervu.",
+    "bio": "Lu hi ak fad hezin peabe am miznaste ezfeman asabuk duk enneteho no sod ku enan. Hib fojin jipavkif powel ami cezuuh tu la febitu duvniz bu awbehopo ke vosdajru hovgudeje. Goomeliw zes pomuvla le guinionu recutce neh bom na wugceber lefmikaw suzakdez ciffipu zib gobofioji."
+  },
+  "apiKey": "6012617bde1d1c625e164017f091e27105ca45f0e822377e5d7658db0207594b",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
