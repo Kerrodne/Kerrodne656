@@ -1,0 +1,26 @@
+{
+  "name": "George Peterson",
+  "age": 42,
+  "address": {
+    "street": "Vama View",
+    "city": "Giravse",
+    "state": "ID",
+    "zip": "37243"
+  },
+  "contact": {
+    "phone": "(947) 701-6671",
+    "servicePhone": "800569717"
+  },
+  "birthday": "1972-06-09T18:17:13.006Z",
+  "ip": "153.236.48.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuve maclija ged rusove wule ji daj varu vaaluapo toecadi go meuz. Wov pejo iwca vac fizzaji lolazvo do cecmuzu boohe hothunnob paszoj upfu alejonol. Aci zejvilfu ne nawboru jutoevo butveoj enumuf lituv li awu dowdirno cere saagwe. Bilanpi tev zu do zovoblat zenhug wes ednepi aghasemo mo nevda nehita.",
+    "bio": "Johid zes bulzote godot irminuk loblises gerkod ic doaheew ez lerakabop uvopusac kecjasni radice de fikubof jito. Rori hiw vow avibopow ogajiki ituce fugo wag ha titte hikje dahunade atodapoz wahev vumnunjo. Cen he it lear ku wulitaro uji obgun vi jof ho jurler. Lajhatom sasbuleka siktotib we maw ki cihfa cokom geegi akne jum jakpoc tiz benijdi fofgekuw jofbug."
+  },
+  "apiKey": "65931207f6953127b3a6343c2f0d869cd959f7e23b4c2b8cf0095973498834c0",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
