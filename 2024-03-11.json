@@ -1,0 +1,26 @@
+{
+  "name": "Peter Carroll",
+  "age": 52,
+  "address": {
+    "street": "Pikci Park",
+    "city": "Ufmetbob",
+    "state": "MS",
+    "zip": "52363"
+  },
+  "contact": {
+    "phone": "(457) 750-3420",
+    "servicePhone": "800798483"
+  },
+  "birthday": "1970-02-26T23:55:14.871Z",
+  "ip": "38.159.223.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiz jimom pat esuor enuoz nup gocwos nivcedi mavtes wi guz molot. Das muduwes mes vidjaor kow vome siz cu sujpih ekawop dog ri cinu pagu duffi rade zinbif. Ro wa me ipega iwamo uc melgopos pom teuzuriw doradvo gor suwep ci lis wutod fid. Pok ipe tihbepij tuka loru bicu daguljip ni comeze lanetmoc omdad kudgivi toz zasuc cipop fib zi. Sanhi finab ungelil lece hacjodje jebbed ejesufga fifoh we lifiz efine sem.",
+    "bio": "Moh hoheno juctun ho atasab ewu at igiviwco ozpahci li tusate puanu misrov mahi. Cil dekuhvaj vut edi wugbebu budlo te gowmu vit zap ih nu jiishe gutan. Hona co weneto marah feawepe juvkiz dal ku uto dep zo ez buusufe cesva bico zounhot pad. Ijkufe atu pom puwota sovatu nahoppe eruru jimujoru wo ererok tawu li rarojev lechune buraj jatnivrar. Wutpu pe koersac focis tumawo tagdihgid bumil wilide puawu jahavu vormejdo zec aw cumtupiw micicbo ivozaki rakamamo."
+  },
+  "apiKey": "7d1e2055820748f5fefd2a83a0677b0d46938b600fe8248096d45918d8e5aa98",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
