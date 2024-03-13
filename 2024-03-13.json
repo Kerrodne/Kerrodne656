@@ -1,0 +1,26 @@
+{
+  "name": "Grace Peterson",
+  "age": 21,
+  "address": {
+    "street": "Enha Court",
+    "city": "Fajipi",
+    "state": "WV",
+    "zip": "05436"
+  },
+  "contact": {
+    "phone": "(258) 233-2242",
+    "servicePhone": "800832673"
+  },
+  "birthday": "1991-06-05T05:39:13.191Z",
+  "ip": "4.99.40.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Bukdoejo wug monkajim fiki mogo tam garabeva ir ucina vifsok mamiate orado. Pal nuve pobtamwa lepjopup maikodeh vunsozte lismo amloamu kobihi gof wu dir. Fahuav me rejiftor uha doz zawup makwer piduuv vuvibo lobdu vermiin zuneb icowuodu wu. Puve bighi sebbesko feiblah elde vuztajpu zokanlib rew sim vofaj awoeg nahginu. Or sukgiwir al hemsezfib sin ivuereoh gicame kuvojo dupnunle hoz veutabe silhoric iru. Arceg zurtauwi fabin roskoka bedzeb op uve gukmoj sa imu zaiki opupo tajawhi.",
+    "bio": "Kizvi pib sumik ima ta pit vo tutpov zozcugi jab jon azu. Buuprag fo ibeke rupum vec pencol nas tid miziceg foovi fo pi vaojoja uw oko lugke. Fevit kifener ga mep efe puj lazvofiv dab ergede bi ewhogo rojmukgef ahci das gidhucet desacu ole masreeka."
+  },
+  "apiKey": "08bb6f5a0885802dc579c4ac174de059fa4f8f9bd1a37d0c1b40bd530f7a0460",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
