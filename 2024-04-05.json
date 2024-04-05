@@ -1,0 +1,26 @@
+{
+  "name": "Francis Richardson",
+  "age": 45,
+  "address": {
+    "street": "Mosul Road",
+    "city": "Gahulwu",
+    "state": "DE",
+    "zip": "44062"
+  },
+  "contact": {
+    "phone": "(578) 627-4789",
+    "servicePhone": "800693249"
+  },
+  "birthday": "1995-05-08T04:07:28.017Z",
+  "ip": "238.189.193.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuabicub hezegik lu kefud buz salo afvi dewzu uvzikub fehkidpi besomi wipufjes hi je om zibal. Sehhidca metevde gucru duubisep siugomon huzifaj to julgah masasane ne lob kezej ecovico necumu wef var. Dofko pudlu vomkopref asgu sutki sasac ca gideac omokera tabas eduzutuv juel. Te bes behahoma pif ahjuwbo lamo giloni pacpuszop ocon le kewbit abaporwoz kipvo nefihak damaco joliw rile.",
+    "bio": "Lafem ra andejab paabeta raeb diwnu ke conhaidi gapemo un bopra huthuf za buw ner. Gaw mi gojagfi fahtobi mi lov vecke ci uciruvo jun zuze hitlurub ole etjij ravuhivi di rueguula nigon. Ogo rus kaaloan gocla ro icuezakim los eciwuj taj fefohi kibo uwken uzu uza let."
+  },
+  "apiKey": "9b64d042e731bfcb8193384190d7f1254881a5da52e9f761f91ed6910b384bb6",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
