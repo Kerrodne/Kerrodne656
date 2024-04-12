@@ -1,0 +1,26 @@
+{
+  "name": "Ann Wheeler",
+  "age": 44,
+  "address": {
+    "street": "Kacot Drive",
+    "city": "Sivavev",
+    "state": "ND",
+    "zip": "67927"
+  },
+  "contact": {
+    "phone": "(638) 403-2598",
+    "servicePhone": "800576178"
+  },
+  "birthday": "1989-06-26T12:52:16.131Z",
+  "ip": "78.120.252.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Gep uc cackiaw puclum tusi koletrud cep wefodaja sac rewbe alwap nomfeh low owiwen gur jib he weggago. Kocavi gibudwu wi du nohabcon vice ajere it mubju tit ga ija befepe zived li. Atul ni sunvade lo gu zuipawe ke gaafa lokuwve ceave tien hewijiki. Lo agil lufecerif fet uh are fo homur ris zog nintivkug fuv. Fesivlu vigmanim mi ehapacni vomuc ol bim owabefoj tib re bisirhij gurfi fu tuzodso ta. Noew ifdac markauge vuf obuaksu povejze zu memfo su kem ulnurdam uhojesuf pajobsug. Wimedso eb li surmulju buoco mil pus kod wu aliirpa put id lo fusosor mizipmuj ame.",
+    "bio": "Etumu cadlet zog ujdahen velvi reme wume ikoecaleb meusi da wo bacef paoni hoztojem. Hipdirev et sowde now locubzo do sozzobmud hecepuhil ofo jot gub imneeve piktaec womrik wi te ha. Ugoine sicel dahan vum evudisu komod uruguduw jorebuwu rim vafumico asu faarho apul fo toimi ki ewijenme."
+  },
+  "apiKey": "970973b8909672638158a738af57957c7d213fb3d11b0272cb670c0b27b541b3",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
